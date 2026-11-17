@@ -1,4 +1,4 @@
-\# Quotes and Authors Scraper
+# Quotes and Authors Scraper
 
 
 
